@@ -1,0 +1,96 @@
+{
+  "ads_config": {
+    "interval": 30,
+    "enable": false
+  },
+  "ad_units": {
+    "open_splash": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_start": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "banner": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "interstitial_main": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_detail": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_download": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_import": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "interstitial_apply": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    }
+  }
+}
